@@ -30,3 +30,5 @@ To use Net Blocker, follow these steps:
 - Enter a regular expression to match the URLs or file extensions of the media you want to block. For example, "ytimg" will block all images from ytimg.com (YouTube). Multiple entries are separated like this: "ytimg|.jpg".
 - Click the update button to apply the filter and reload the current tab
 
+[AI generated]
+
